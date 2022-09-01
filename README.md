@@ -1,3 +1,4 @@
-# SPA
+# Projetos e desafios do Stage 6
 
-Acessar: <a href='https://lfoalves.github.io/stage6/desafios/spa-universe/index.html'>SPA Universe</a>
+- SPA Universe
+- GitFav
